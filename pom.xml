@@ -8,8 +8,8 @@
   <url>https://www.datatorrent.com</url>
   
   <properties>
-    <apex.version>3.7.0-rts-3.9.2</apex.version>
-    <malhar.version>3.8.0-rts-3.9.2</malhar.version>
+    <apex.version>3.7.0-rts-3.10.1-SNAPSHOT</apex.version>
+    <malhar.version>3.9.0-rts-3.10.1-SNAPSHOT</malhar.version>
     <checkstyle.console>true</checkstyle.console>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>

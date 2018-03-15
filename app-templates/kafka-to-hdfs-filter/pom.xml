@@ -22,8 +22,8 @@
 
   <properties>
     <!-- change this if you desire to use a different version of Apex Core -->
-    <apex.version>3.7.0-rts-3.9.2</apex.version>
-    <malhar.version>3.8.0-rts-3.9.2</malhar.version>
+    <apex.version>3.7.0-rts-3.10.1-SNAPSHOT</apex.version>
+    <malhar.version>3.9.0-rts-3.10.1-SNAPSHOT</malhar.version>
     <apex.apppackage.classpath>lib/*.jar</apex.apppackage.classpath>
     <apex.apppackage.tags>app-template, kafka, hdfs, filter, process</apex.apppackage.tags>
     <apex.apppackage.longDescription>README.md</apex.apppackage.longDescription>

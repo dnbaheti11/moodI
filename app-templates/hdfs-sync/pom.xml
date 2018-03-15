@@ -15,8 +15,8 @@
 
   <properties>
     <maven.deploy.skip>true</maven.deploy.skip>
-    <apex.version>3.7.0-rts-3.9.2</apex.version>
-    <malhar.version>3.8.0-rts-3.9.2</malhar.version>
+    <apex.version>3.7.0-rts-3.10.1-SNAPSHOT</apex.version>
+    <malhar.version>3.9.0-rts-3.10.1-SNAPSHOT</malhar.version>
     <apex.apppackage.classpath>lib/*.jar</apex.apppackage.classpath>
     <skipTests>false</skipTests>
     <semver.plugin.skip>true</semver.plugin.skip>
